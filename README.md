@@ -4,6 +4,8 @@
 To View a demo video please click the link below:
 
 
+Technology used: node.js
+
 Requirements for the app:
 
 Make it so liri.js can take in one of the following commands:
